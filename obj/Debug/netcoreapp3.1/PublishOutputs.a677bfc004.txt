@@ -1,0 +1,12 @@
+C:\Users\David\Documents\0 - WORKSPACES\ws - dotnet\AzureStoragePhotoSharing\FileUploder\pub\FileUploader.exe
+C:\Users\David\Documents\0 - WORKSPACES\ws - dotnet\AzureStoragePhotoSharing\FileUploder\pub\wwwroot\favicon.ico
+C:\Users\David\Documents\0 - WORKSPACES\ws - dotnet\AzureStoragePhotoSharing\FileUploder\pub\appsettings.Development.json
+C:\Users\David\Documents\0 - WORKSPACES\ws - dotnet\AzureStoragePhotoSharing\FileUploder\pub\appsettings.json
+C:\Users\David\Documents\0 - WORKSPACES\ws - dotnet\AzureStoragePhotoSharing\FileUploder\pub\FileUploader.dll
+C:\Users\David\Documents\0 - WORKSPACES\ws - dotnet\AzureStoragePhotoSharing\FileUploder\pub\FileUploader.deps.json
+C:\Users\David\Documents\0 - WORKSPACES\ws - dotnet\AzureStoragePhotoSharing\FileUploder\pub\FileUploader.runtimeconfig.json
+C:\Users\David\Documents\0 - WORKSPACES\ws - dotnet\AzureStoragePhotoSharing\FileUploder\pub\FileUploader.pdb
+C:\Users\David\Documents\0 - WORKSPACES\ws - dotnet\AzureStoragePhotoSharing\FileUploder\pub\Newtonsoft.Json.dll
+C:\Users\David\Documents\0 - WORKSPACES\ws - dotnet\AzureStoragePhotoSharing\FileUploder\pub\Microsoft.WindowsAzure.Storage.dll
+C:\Users\David\Documents\0 - WORKSPACES\ws - dotnet\AzureStoragePhotoSharing\FileUploder\pub\FileUploader.Views.dll
+C:\Users\David\Documents\0 - WORKSPACES\ws - dotnet\AzureStoragePhotoSharing\FileUploder\pub\FileUploader.Views.pdb
